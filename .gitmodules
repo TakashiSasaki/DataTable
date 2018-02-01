@@ -4,3 +4,6 @@
 [submodule "factory"]
 	path = factory
 	url = ./factory/
+[submodule "csvParser"]
+	path = csvParser
+	url = git@github.com:TakashiSasaki/csvParser.git
