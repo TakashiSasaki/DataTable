@@ -1,9 +1,9 @@
 [submodule "instance"]
 	path = instance
-	url = ./instance
+	url = ssh://git@ts1079pro:10022/TakashiSasaki/DataTableInstance.git
 [submodule "factory"]
 	path = factory
-	url = ./factory/
+	url = ssh://git@ts1079pro:10022/TakashiSasaki/DataTableFactory.git
 [submodule "csvParser"]
 	path = csvParser
 	url = git@github.com:TakashiSasaki/csvParser.git
